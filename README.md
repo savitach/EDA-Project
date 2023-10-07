@@ -1,3 +1,5 @@
+**Data Analysis With Python**
+
 **EDA Over IIT Admission**
 
 **Overview:**
@@ -6,8 +8,6 @@ The main aim of EDA is to “Analyze the datasets to summarize their characteris
 **Programming language: Python**
 **Libraries: Pandas,NumPy, Seaborn, matplotlib.**
 ![image](https://github.com/savitach/EDA-Project/assets/93324249/6a57dd92-5bd4-4968-87c9-b6989b6e9416)
-
-
 **Conclusion:**
 From our analysis of the Admissions at IIT, we can see that there is a even spread between all the students in relatively all of the fields of our data. The fees and discounts were stable among each of the different options as well as there being a stable spread between the fees between each of the different fields. This concludes the exploratory data analysis of IIT admissions.
 
